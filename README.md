@@ -109,6 +109,7 @@ Windows 10 / 11
 
 安装器会确保最终结构如下：
 
+```
 StarCraft II/
  ├─ Maps/
  │   └─ Starcraft Mass Recall/
@@ -125,6 +126,7 @@ StarCraft II/
      ├─ SC_MR_Local.SC2Mod
      ├─ SCMRCinematics.SC2Mod
      └─ （其他 Mod 文件…）
+```
 
 ## ✅ 故障与回滚逻辑
 1. 任何下载失败 → 自动回退到本地 ZIP 模式
